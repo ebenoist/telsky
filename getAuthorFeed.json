@@ -1,0 +1,3303 @@
+{
+  "feed": [
+    {
+      "post": {
+        "uri": "at://did:plc:eu6cezqsf5yocjsyc7mgkued/app.bsky.feed.post/3la2ipr5qf32s",
+        "cid": "bafyreifcubvk77b7czeilf3u2yvykv6j4ri4jvlr2vdjjiwgtqeietgcoq",
+        "author": {
+          "did": "did:plc:eu6cezqsf5yocjsyc7mgkued",
+          "handle": "spooky.click",
+          "displayName": "Matthew Phillips",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eu6cezqsf5yocjsyc7mgkued/bafkreihjrnlfs5fnnuiaoy3yvs46kj6u7ct66jahywrjdmyygzsnuwq57i@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "followedBy": "at://did:plc:eu6cezqsf5yocjsyc7mgkued/app.bsky.graph.follow/3la3h4qrqbr24"
+          },
+          "labels": [],
+          "createdAt": "2024-02-06T15:59:22.253Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-03T15:17:43.273Z",
+          "langs": [
+            "en"
+          ],
+          "text": "Wow, it's crazy how so many devs here and no one has built a TUI for bsky yet. Pretty disappointed with you all. This is totally not a nerd snipe."
+        },
+        "replyCount": 6,
+        "repostCount": 2,
+        "likeCount": 15,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-03T15:17:43.273Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3la3bwy77hv2u",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-03T22:49:09.107Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:z2rokxrttw5254hogmucux2x/app.bsky.feed.post/3l7yz7dqnsx22",
+        "cid": "bafyreia3lhgv7yet2dd2zxvp4le6nepxheheutyxsiwgh5yqk6ubf3z3bq",
+        "author": {
+          "did": "did:plc:z2rokxrttw5254hogmucux2x",
+          "handle": "lookitup.baby",
+          "displayName": "Ian Coldwater 👻🌿",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2rokxrttw5254hogmucux2x/bafkreif7zcepr4rrg3o4gctttycvbklypxvzlpsfd7y4bo2bkixrvdafv4@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.graph.follow/3k3boshojxt27"
+          },
+          "labels": [
+            {
+              "src": "did:plc:z2rokxrttw5254hogmucux2x",
+              "uri": "at://did:plc:z2rokxrttw5254hogmucux2x/app.bsky.actor.profile/self",
+              "cid": "bafyreigxeb3amjko2g3xwxb5laqxgimxjquy4xz6k245efyiljad3yeq4i",
+              "val": "!no-unauthenticated",
+              "cts": "1970-01-01T00:00:00.000Z"
+            }
+          ],
+          "createdAt": "2023-04-12T16:39:16.277Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-03T01:07:26.337Z",
+          "embed": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreigwgq5vs4jo4sze6fnjd4y7txnij3xxvmsekryqhj7blbfiiy4jaq",
+              "uri": "at://did:plc:7lspsngyzka4juefxvsmi2vk/app.bsky.feed.post/3l6srs6nc7c26"
+            }
+          },
+          "langs": [
+            "en"
+          ],
+          "text": "This is neat!"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.record#view",
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:7lspsngyzka4juefxvsmi2vk/app.bsky.feed.post/3l6srs6nc7c26",
+            "cid": "bafyreigwgq5vs4jo4sze6fnjd4y7txnij3xxvmsekryqhj7blbfiiy4jaq",
+            "author": {
+              "did": "did:plc:7lspsngyzka4juefxvsmi2vk",
+              "handle": "en.blueark.app",
+              "displayName": "BlueArk Global",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7lspsngyzka4juefxvsmi2vk/bafkreiglnugt46rvlxnpryl4j3zezfl2tsghoekxkbrabl5glim3ba526e@jpeg",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "all"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false
+              },
+              "labels": [],
+              "createdAt": "2024-10-17T15:49:57.950Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-10-18T20:13:38.956Z",
+              "embed": {
+                "$type": "app.bsky.embed.images",
+                "images": [
+                  {
+                    "alt": "",
+                    "aspectRatio": {
+                      "height": 1080,
+                      "width": 1080
+                    },
+                    "image": {
+                      "$type": "blob",
+                      "ref": {
+                        "$link": "bafkreid6o4ufggk2ug6y4lp6m2rrovur27gnocz27pfqchjhi3jhyznyae"
+                      },
+                      "mimeType": "image/jpeg",
+                      "size": 215891
+                    }
+                  }
+                ]
+              },
+              "facets": [
+                {
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#link",
+                      "uri": "https://blueark.app/en-us/"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 276,
+                    "byteStart": 258
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "With BlueArk, you can migrate your tweets from X/Twitter to Bluesky quickly, securely and with the original date of each post. We preserve your stories, your media and your most relevant content on a new platform, without losing anything along the way. 🪽 blueark.app/en-us/"
+            },
+            "labels": [],
+            "likeCount": 2076,
+            "replyCount": 393,
+            "repostCount": 884,
+            "quoteCount": 544,
+            "indexedAt": "2024-10-18T20:13:38.956Z",
+            "embeds": [
+              {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                  {
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7lspsngyzka4juefxvsmi2vk/bafkreid6o4ufggk2ug6y4lp6m2rrovur27gnocz27pfqchjhi3jhyznyae@jpeg",
+                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7lspsngyzka4juefxvsmi2vk/bafkreid6o4ufggk2ug6y4lp6m2rrovur27gnocz27pfqchjhi3jhyznyae@jpeg",
+                    "alt": "",
+                    "aspectRatio": {
+                      "height": 1080,
+                      "width": 1080
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "replyCount": 6,
+        "repostCount": 17,
+        "likeCount": 107,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-03T01:07:26.337Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3la3bv7l4gj25",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-03T22:48:09.729Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:p7uix7mresfq4nfzxp3klgfa/app.bsky.feed.post/3l7z4sedyej2g",
+        "cid": "bafyreiakmhjmeam6anf6sekmrlxbkwjaqp4ga6w6gjejyg6vekvftrwun4",
+        "author": {
+          "did": "did:plc:p7uix7mresfq4nfzxp3klgfa",
+          "handle": "justingarrison.com",
+          "displayName": "Justin Garrison",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:p7uix7mresfq4nfzxp3klgfa/bafkreicvbh4pdflctephx3ptiruxfr23gl4voguklcoekmt6q37vdkwvdi@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "none"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.graph.follow/3kzz2xjpfaq2k"
+          },
+          "labels": [],
+          "createdAt": "2023-04-22T20:11:47.863Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-03T02:11:45.909Z",
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#mention",
+                  "did": "did:plc:wkoofae5uytcm7bjncmev6n6"
+                }
+              ],
+              "index": {
+                "byteEnd": 99,
+                "byteStart": 77
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "How does this labeler work? Trying to find examples to do something similar\n\n@pronouns.adorable.mom"
+        },
+        "replyCount": 2,
+        "repostCount": 1,
+        "likeCount": 5,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-03T02:11:45.909Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3la3bqgcm3r25",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-03T22:45:29.022Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:7i3fhorekojhdjhkbln7q7gq/app.bsky.feed.post/3la3bhxrwfm2t",
+        "cid": "bafyreidy4fmkold3xaabqwgquitn4pv57ea6g5sqdfg7yvptop76lfiezi",
+        "author": {
+          "did": "did:plc:7i3fhorekojhdjhkbln7q7gq",
+          "handle": "kelseyhightower.com",
+          "displayName": "Kelsey Hightower",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7i3fhorekojhdjhkbln7q7gq/bafkreidc3secznbt2u5bcwcaownwvgd57jefnprxgtrvmlyli3dho5kpom@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.graph.follow/3k3bosmzqog24"
+          },
+          "labels": [],
+          "createdAt": "2023-04-21T19:04:37.997Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-03T22:40:45.282Z",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "Screenshot of the Go template package documentation.",
+                "aspectRatio": {
+                  "height": 1438,
+                  "width": 2000
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreibjrpi2jgnbphutvdw6hwp4zzehvlsadv6nrmbpdl6r7wzxjjg2j4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 843643
+                }
+              }
+            ]
+          },
+          "langs": [
+            "en"
+          ],
+          "text": "I've been using Go's template package for 10 years, even shipped and maintained an open source project based on it, confd, and only today have I committed to reading the entire documentation instead of brute forcing my use of this library."
+        },
+        "embed": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7i3fhorekojhdjhkbln7q7gq/bafkreibjrpi2jgnbphutvdw6hwp4zzehvlsadv6nrmbpdl6r7wzxjjg2j4@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7i3fhorekojhdjhkbln7q7gq/bafkreibjrpi2jgnbphutvdw6hwp4zzehvlsadv6nrmbpdl6r7wzxjjg2j4@jpeg",
+              "alt": "Screenshot of the Go template package documentation.",
+              "aspectRatio": {
+                "height": 1438,
+                "width": 2000
+              }
+            }
+          ]
+        },
+        "replyCount": 4,
+        "repostCount": 5,
+        "likeCount": 65,
+        "quoteCount": 1,
+        "indexedAt": "2024-11-03T22:40:45.282Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3la3bomwqhc2k",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-03T22:44:28.699Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:nr55rexy4s2we22j56d4n46b/app.bsky.feed.post/3la2nx4eu4e2a",
+        "cid": "bafyreiht3adpnn6y3pbqfz4fmds5ca7ju667i3wxp2dl3yta2wqvf23nr4",
+        "author": {
+          "did": "did:plc:nr55rexy4s2we22j56d4n46b",
+          "handle": "mijustin.bsky.social",
+          "displayName": "Justin Jackson",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nr55rexy4s2we22j56d4n46b/bafkreiaewnuu2rlqugue4k4m5pxeywxgpdrqkos62h275xx3rwrvlajsee@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-02-15T22:24:00.591Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-03T16:51:18.689Z",
+          "embed": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreignrggyx7ius3gr5kwk7lgn5tih2icd5kwkjtrignois5x3w7rhjq",
+              "uri": "at://did:plc:etdjdgnly5tz5l5xdd4jq76d/app.bsky.feed.post/3la2ezdodvu2g"
+            }
+          },
+          "langs": [
+            "en"
+          ],
+          "text": "Was on BBSes and UseNet groups in my tweens.\n\nStarted designing UI and screens for BBSes (Roboboard/fx).\n\nHeard about Mosaic (and the web) on a Gopher site.\n\nAlmost immediately, learned how to build a basic index.html in a text editor."
+        },
+        "embed": {
+          "$type": "app.bsky.embed.record#view",
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:etdjdgnly5tz5l5xdd4jq76d/app.bsky.feed.post/3la2ezdodvu2g",
+            "cid": "bafyreignrggyx7ius3gr5kwk7lgn5tih2icd5kwkjtrignois5x3w7rhjq",
+            "author": {
+              "did": "did:plc:etdjdgnly5tz5l5xdd4jq76d",
+              "handle": "wesbos.com",
+              "displayName": "Wes Bos",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:etdjdgnly5tz5l5xdd4jq76d/bafkreiau7auseg25jmwv3jjz5fs2quamv2teyobs4as6agh77qpjrioxo4@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false
+              },
+              "labels": [],
+              "createdAt": "2023-04-23T16:28:28.287Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-03T14:11:29.677Z",
+              "langs": [
+                "en"
+              ],
+              "text": "How did you get into web development? \n\nMySpace? Comp sci? Made the jump from print? Bootcamp?"
+            },
+            "labels": [],
+            "likeCount": 462,
+            "replyCount": 455,
+            "repostCount": 30,
+            "quoteCount": 108,
+            "indexedAt": "2024-11-03T14:11:29.677Z",
+            "embeds": []
+          }
+        },
+        "replyCount": 2,
+        "repostCount": 2,
+        "likeCount": 11,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-03T16:51:18.689Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3la3b4cw5nz2r",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-03T22:34:14.408Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:h2olgig7o6uaj2yrups4jtln/app.bsky.feed.post/3la2zz3o4qf2w",
+        "cid": "bafyreieoxnt3n7e47wo5jogygihknc5gicsoap7vfhdxhlaivzkvzddtru",
+        "author": {
+          "did": "did:plc:h2olgig7o6uaj2yrups4jtln",
+          "handle": "marcusjmerritt.com",
+          "displayName": "Marcus",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:h2olgig7o6uaj2yrups4jtln/bafkreid3k4h3oqgtczd4airm2aruxgz5sj6vkzhmnfxyxwgmgdezhvxcam@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "all"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.graph.follow/3ky5u3tzqcv2q"
+          },
+          "labels": [],
+          "createdAt": "2023-07-17T12:47:03.573Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-03T20:27:09.989Z",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "Black ink drawing of Godzilla, old 1960s Godzilla facing to the left with their arms held up in front",
+                "aspectRatio": {
+                  "height": 918,
+                  "width": 1150
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreid6a6xeeczpqosdca5r36eud5nutxbla3ebws2bakhc3dn2txl4ra"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 366554
+                }
+              }
+            ]
+          },
+          "langs": [
+            "en"
+          ],
+          "text": "In celebration of Godzilla Day (?) here’s my drawing of Godzilla"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:h2olgig7o6uaj2yrups4jtln/bafkreid6a6xeeczpqosdca5r36eud5nutxbla3ebws2bakhc3dn2txl4ra@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:h2olgig7o6uaj2yrups4jtln/bafkreid6a6xeeczpqosdca5r36eud5nutxbla3ebws2bakhc3dn2txl4ra@jpeg",
+              "alt": "Black ink drawing of Godzilla, old 1960s Godzilla facing to the left with their arms held up in front",
+              "aspectRatio": {
+                "height": 918,
+                "width": 1150
+              }
+            }
+          ]
+        },
+        "replyCount": 4,
+        "repostCount": 21,
+        "likeCount": 91,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-03T20:27:09.989Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3la3aykspbm25",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-03T22:32:08.354Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:nuagvzlsod4g6muou7dlpzgf/app.bsky.feed.post/3la2t43ir2y2e",
+        "cid": "bafyreibcwr5gmvdhb7quu7ewidlbr2sdm2deb2po3wnupodb4hwjfll4se",
+        "author": {
+          "did": "did:plc:nuagvzlsod4g6muou7dlpzgf",
+          "handle": "rewscott.bsky.social",
+          "displayName": "𝖠𐓣ᑯ𝗋౿⍵ 𝖲ɕ𝗈𝗍𝗍",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nuagvzlsod4g6muou7dlpzgf/bafkreifxtpsmubdwdkz5p57lkzczcvg6zt6btgevauttrnb36zqosm3f4a@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-03T04:28:28.099Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-03T18:23:35.451Z",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "",
+                "aspectRatio": {
+                  "height": 900,
+                  "width": 896
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreig6n5igjypu57wpawlrrlgm3k5ps5c6z7h7ytlb6ahktgwyf6nwwi"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 624613
+                }
+              }
+            ]
+          },
+          "langs": [
+            "en"
+          ],
+          "text": ""
+        },
+        "embed": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nuagvzlsod4g6muou7dlpzgf/bafkreig6n5igjypu57wpawlrrlgm3k5ps5c6z7h7ytlb6ahktgwyf6nwwi@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nuagvzlsod4g6muou7dlpzgf/bafkreig6n5igjypu57wpawlrrlgm3k5ps5c6z7h7ytlb6ahktgwyf6nwwi@jpeg",
+              "alt": "",
+              "aspectRatio": {
+                "height": 900,
+                "width": 896
+              }
+            }
+          ]
+        },
+        "replyCount": 35,
+        "repostCount": 477,
+        "likeCount": 2992,
+        "quoteCount": 21,
+        "indexedAt": "2024-11-03T18:23:35.317Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3la3axfipch2v",
+          "threadMuted": false,
+          "replyDisabled": false,
+          "embeddingDisabled": false
+        },
+        "labels": [],
+        "threadgate": {
+          "uri": "at://did:plc:nuagvzlsod4g6muou7dlpzgf/app.bsky.feed.threadgate/3la2t43ir2y2e",
+          "cid": "bafyreic3czvxesolr63jijuimuyacjxwdfs5oihx3zcdfhw6xlivxtcymq",
+          "record": {
+            "$type": "app.bsky.feed.threadgate",
+            "createdAt": "2024-11-04T01:26:25.000Z",
+            "hiddenReplies": [
+              "at://did:plc:mokwsex455ayugpagqrotv4g/app.bsky.feed.post/3la3atzqajy2d",
+              "at://did:plc:pnw2za5ffbwn6vebwy2pvk42/app.bsky.feed.post/3la3cmztcpf2a",
+              "at://did:plc:xbwm4q525ziy22ackgjexw4f/app.bsky.feed.post/3la3iyb3frg2a",
+              "at://did:plc:cmt7p66tydym3twe6j2uaa64/app.bsky.feed.post/3la3jf5epkj2d",
+              "at://did:plc:k5igcriqmplffxazxux36dk3/app.bsky.feed.post/3la3jf5xlcp2s",
+              "at://did:plc:k5igcriqmplffxazxux36dk3/app.bsky.feed.post/3la3jlp3ghs2l",
+              "at://did:plc:luogkpivhgdhxfniqlmtwmy4/app.bsky.feed.post/3la3ke322w42m"
+            ],
+            "post": "at://did:plc:nuagvzlsod4g6muou7dlpzgf/app.bsky.feed.post/3la2t43ir2y2e"
+          },
+          "lists": []
+        }
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-03T22:31:29.346Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:bv2d67dpnqoqt33zl6qxiduq/app.bsky.feed.post/3la2tvyowc526",
+        "cid": "bafyreih5c36a5fz2abttriq2nc4j3c5vqcnsetdtxfejdgpdysqp6tk44u",
+        "author": {
+          "did": "did:plc:bv2d67dpnqoqt33zl6qxiduq",
+          "handle": "calamitycrush.bsky.social",
+          "displayName": "Ceci n'est pas calamitycrush",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bv2d67dpnqoqt33zl6qxiduq/bafkreic5ldbsayk7segtwdknhqauijtpldtnemk6pofoxmanq4mf3q6ada@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.graph.follow/3k42mikg7jf2r",
+            "followedBy": "at://did:plc:bv2d67dpnqoqt33zl6qxiduq/app.bsky.graph.follow/3k42jgero2k2i"
+          },
+          "labels": [],
+          "createdAt": "2023-07-29T02:36:44.668Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-03T18:38:02.587Z",
+          "langs": [
+            "en"
+          ],
+          "text": "Can't wait to go to work tonight because at least it's something that will take my mind off of... Everything else that's going on"
+        },
+        "replyCount": 1,
+        "repostCount": 1,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-03T18:38:02.587Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3la3av3bgi425",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-03T22:30:11.512Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:bv2d67dpnqoqt33zl6qxiduq/app.bsky.feed.post/3la2qs2hl5c2n",
+        "cid": "bafyreihikilferpkalcl7urwssaskn4poxgedbr4mcz6cokjyrxyo33qii",
+        "author": {
+          "did": "did:plc:bv2d67dpnqoqt33zl6qxiduq",
+          "handle": "calamitycrush.bsky.social",
+          "displayName": "Ceci n'est pas calamitycrush",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bv2d67dpnqoqt33zl6qxiduq/bafkreic5ldbsayk7segtwdknhqauijtpldtnemk6pofoxmanq4mf3q6ada@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.graph.follow/3k42mikg7jf2r",
+            "followedBy": "at://did:plc:bv2d67dpnqoqt33zl6qxiduq/app.bsky.graph.follow/3k42jgero2k2i"
+          },
+          "labels": [],
+          "createdAt": "2023-07-29T02:36:44.668Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-03T17:42:08.633Z",
+          "embed": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreidzjqurajlzpw33durttgaxj2i6k2ir3gctffuifqeogp2zg2dl4m",
+              "uri": "at://did:plc:lc5y4phmnd3qojsgholwnmbj/app.bsky.feed.post/3la2mhu7q4e2k"
+            }
+          },
+          "langs": [
+            "en"
+          ],
+          "text": "I take back what i said about Michael Hutchence and Kylie Minogue being the hottest couple ever (it's okay they've just been bumped to #2)"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.record#view",
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:lc5y4phmnd3qojsgholwnmbj/app.bsky.feed.post/3la2mhu7q4e2k",
+            "cid": "bafyreidzjqurajlzpw33durttgaxj2i6k2ir3gctffuifqeogp2zg2dl4m",
+            "author": {
+              "did": "did:plc:lc5y4phmnd3qojsgholwnmbj",
+              "handle": "gaijinrando.bsky.social",
+              "displayName": "Gaijin Rando",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lc5y4phmnd3qojsgholwnmbj/bafkreihz35cbfy6efep6cd6js3ksaxopnmyqnzuqftnfasmgdwgtuifpou@jpeg",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "all"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false
+              },
+              "labels": [],
+              "createdAt": "2023-10-12T13:37:41.173Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-03T16:24:52.713Z",
+              "embed": {
+                "$type": "app.bsky.embed.images",
+                "images": [
+                  {
+                    "alt": "",
+                    "aspectRatio": {
+                      "height": 1080,
+                      "width": 1080
+                    },
+                    "image": {
+                      "$type": "blob",
+                      "ref": {
+                        "$link": "bafkreicfx5ydxl2hgc2kniyztis3smxatfze6rw2dzqe6wuzkl2nyvdhiq"
+                      },
+                      "mimeType": "image/jpeg",
+                      "size": 554888
+                    }
+                  }
+                ]
+              },
+              "langs": [
+                "en"
+              ],
+              "text": "Dolph Lundgren and Grace Jones\n\nDolph was BOTD in 1957"
+            },
+            "labels": [],
+            "likeCount": 120,
+            "replyCount": 3,
+            "repostCount": 23,
+            "quoteCount": 9,
+            "indexedAt": "2024-11-03T16:24:52.713Z",
+            "embeds": [
+              {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                  {
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lc5y4phmnd3qojsgholwnmbj/bafkreicfx5ydxl2hgc2kniyztis3smxatfze6rw2dzqe6wuzkl2nyvdhiq@jpeg",
+                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:lc5y4phmnd3qojsgholwnmbj/bafkreicfx5ydxl2hgc2kniyztis3smxatfze6rw2dzqe6wuzkl2nyvdhiq@jpeg",
+                    "alt": "",
+                    "aspectRatio": {
+                      "height": 1080,
+                      "width": 1080
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "replyCount": 0,
+        "repostCount": 1,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-03T17:42:08.633Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3la2rmb4jaz2a",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-03T17:56:49.396Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:7i3fhorekojhdjhkbln7q7gq/app.bsky.feed.post/3la2f42qibk24",
+        "cid": "bafyreihgi5pzllwzdfuklwtk3v3e5e55onip5fq4osgcaps47wy66ifeaq",
+        "author": {
+          "did": "did:plc:7i3fhorekojhdjhkbln7q7gq",
+          "handle": "kelseyhightower.com",
+          "displayName": "Kelsey Hightower",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7i3fhorekojhdjhkbln7q7gq/bafkreidc3secznbt2u5bcwcaownwvgd57jefnprxgtrvmlyli3dho5kpom@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.graph.follow/3k3bosmzqog24"
+          },
+          "labels": [],
+          "createdAt": "2023-04-21T19:04:37.997Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-03T14:13:00.848Z",
+          "embed": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreiazg7nkrpn6cokauyd3fnys7ojiebfyztx3bdzjuboe4ua5qhihqi",
+              "uri": "at://did:plc:42qpqlgojbezm3gt2nxdfikk/app.bsky.feed.post/3la2esh2mnd2z"
+            }
+          },
+          "langs": [
+            "en"
+          ],
+          "text": "Moving up the ladder and not writing code was the best part of my career. It forced me to zoom out and study the big picture from an angle I could not see from behind a text editor."
+        },
+        "embed": {
+          "$type": "app.bsky.embed.record#view",
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:42qpqlgojbezm3gt2nxdfikk/app.bsky.feed.post/3la2esh2mnd2z",
+            "cid": "bafyreiazg7nkrpn6cokauyd3fnys7ojiebfyztx3bdzjuboe4ua5qhihqi",
+            "author": {
+              "did": "did:plc:42qpqlgojbezm3gt2nxdfikk",
+              "handle": "isburmistrov.bsky.social",
+              "displayName": "Ivan Burmistrov",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:42qpqlgojbezm3gt2nxdfikk/bafkreickcrnvgfmggw3wtzvffvks7eidwpzxrwplonj2vdk4skg2xfrtn4@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false
+              },
+              "labels": [],
+              "createdAt": "2024-10-28T07:06:54.140Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-03T14:07:38.083Z",
+              "langs": [
+                "en"
+              ],
+              "reply": {
+                "parent": {
+                  "cid": "bafyreig6fgkvpnapiponssktira5aqi55zfdfws2spp6afphvw6jvcqsfe",
+                  "uri": "at://did:plc:7i3fhorekojhdjhkbln7q7gq/app.bsky.feed.post/3la2elupcqh2z"
+                },
+                "root": {
+                  "cid": "bafyreig6fgkvpnapiponssktira5aqi55zfdfws2spp6afphvw6jvcqsfe",
+                  "uri": "at://did:plc:7i3fhorekojhdjhkbln7q7gq/app.bsky.feed.post/3la2elupcqh2z"
+                }
+              },
+              "text": "What bothers me in the BigTech career ladder is that it's almost expected for staff+ IC folks not to write code. Some do write it, of course, but there are some that write nothing. Pretty weird."
+            },
+            "labels": [],
+            "likeCount": 16,
+            "replyCount": 4,
+            "repostCount": 0,
+            "quoteCount": 3,
+            "indexedAt": "2024-11-03T14:07:38.083Z",
+            "embeds": []
+          }
+        },
+        "replyCount": 15,
+        "repostCount": 10,
+        "likeCount": 130,
+        "quoteCount": 4,
+        "indexedAt": "2024-11-03T14:13:00.848Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3la2ky26h542u",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-03T15:58:08.631Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:7i3fhorekojhdjhkbln7q7gq/app.bsky.feed.post/3la2jkexw642p",
+        "cid": "bafyreierpoku3bzqruro576ufu4fleizu5gqs5eju4274waw4xr4ggmdva",
+        "author": {
+          "did": "did:plc:7i3fhorekojhdjhkbln7q7gq",
+          "handle": "kelseyhightower.com",
+          "displayName": "Kelsey Hightower",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7i3fhorekojhdjhkbln7q7gq/bafkreidc3secznbt2u5bcwcaownwvgd57jefnprxgtrvmlyli3dho5kpom@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.graph.follow/3k3bosmzqog24"
+          },
+          "labels": [],
+          "createdAt": "2023-04-21T19:04:37.997Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-03T15:32:36.468Z",
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "description": "YouTube video by Saturday Night Live",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreify67vpqk7i36rkx5s4b4xqeogovjujckm573ajieq2qloduubtwq"
+                },
+                "mimeType": "image/jpeg",
+                "size": 335504
+              },
+              "title": "2024 Pre-Election Cold Open - SNL",
+              "uri": "https://www.youtube.com/watch?v=e6Funs6yyEw"
+            }
+          },
+          "facets": [
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://www.youtube.com/watch?v=e6Funs6yyEw"
+                }
+              ],
+              "index": {
+                "byteEnd": 90,
+                "byteStart": 59
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "One of the best cold opens in Saturday Night Live history. www.youtube.com/watch?v=e6Fu..."
+        },
+        "embed": {
+          "$type": "app.bsky.embed.external#view",
+          "external": {
+            "uri": "https://www.youtube.com/watch?v=e6Funs6yyEw",
+            "title": "2024 Pre-Election Cold Open - SNL",
+            "description": "YouTube video by Saturday Night Live",
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7i3fhorekojhdjhkbln7q7gq/bafkreify67vpqk7i36rkx5s4b4xqeogovjujckm573ajieq2qloduubtwq@jpeg"
+          }
+        },
+        "replyCount": 4,
+        "repostCount": 16,
+        "likeCount": 156,
+        "quoteCount": 3,
+        "indexedAt": "2024-11-03T15:32:36.468Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3la2kcbctfd2a",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-03T15:45:57.930Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:7i3fhorekojhdjhkbln7q7gq/app.bsky.feed.post/3la2elupcqh2z",
+        "cid": "bafyreig6fgkvpnapiponssktira5aqi55zfdfws2spp6afphvw6jvcqsfe",
+        "author": {
+          "did": "did:plc:7i3fhorekojhdjhkbln7q7gq",
+          "handle": "kelseyhightower.com",
+          "displayName": "Kelsey Hightower",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7i3fhorekojhdjhkbln7q7gq/bafkreidc3secznbt2u5bcwcaownwvgd57jefnprxgtrvmlyli3dho5kpom@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.graph.follow/3k3bosmzqog24"
+          },
+          "labels": [],
+          "createdAt": "2023-04-21T19:04:37.997Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-03T14:03:57.672Z",
+          "langs": [
+            "en"
+          ],
+          "text": "I'm back to writing code every day, and after 20 years of doing this, I'm still learning something new."
+        },
+        "replyCount": 22,
+        "repostCount": 12,
+        "likeCount": 431,
+        "quoteCount": 1,
+        "indexedAt": "2024-11-03T14:03:57.672Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3la2jry2w3w2v",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-03T15:36:51.448Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:7fl7mfk3dyowoiawxysu4z6f/app.bsky.feed.post/3l7yji7lkrq2p",
+        "cid": "bafyreiceuxa2vducleceyytljqldce3jm4db5v6pi7ns4gfdhxuxagwb3q",
+        "author": {
+          "did": "did:plc:7fl7mfk3dyowoiawxysu4z6f",
+          "handle": "afomera.dev",
+          "displayName": "Andrea Fomera",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7fl7mfk3dyowoiawxysu4z6f/bafkreig2ptzw7vhqhmoz7zcspazr3zqenoe7sbiwya2oc6ihngyi6f7f4m@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-25T23:01:33.955Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-02T20:26:04.100Z",
+          "langs": [
+            "en"
+          ],
+          "text": "New handle, who dis?"
+        },
+        "replyCount": 1,
+        "repostCount": 1,
+        "likeCount": 11,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-02T20:26:04.100Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3la2jqpbkbs25",
+          "like": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.like/3la2jqn7a4l2q",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-03T15:36:08.677Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:epihigio3d7un7u3gpqiy5gv/app.bsky.feed.post/3l7yv2a7cfq2l",
+        "cid": "bafyreiho7y5y6bp3rijtwzh3hdfhvzg2nbaco5u5uthkphzxhyxzhfiuza",
+        "author": {
+          "did": "did:plc:epihigio3d7un7u3gpqiy5gv",
+          "handle": "drandrewthaler.bsky.social",
+          "displayName": "Andrew D Thaler",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:epihigio3d7un7u3gpqiy5gv/bafkreihoq5i76ghjfn23cwckkn3x5vvaueuigyy4kb25popblo4rt2w5ly@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-05-02T19:06:50.480Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-02T23:53:01.774Z",
+          "langs": [
+            "en"
+          ],
+          "text": "I really hope one of the final takeaways from 2024 is that 3 months is more than enough time to run a campaign."
+        },
+        "replyCount": 56,
+        "repostCount": 788,
+        "likeCount": 4541,
+        "quoteCount": 40,
+        "indexedAt": "2024-11-02T23:53:00.314Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3la2jnatpoa2x",
+          "threadMuted": false,
+          "replyDisabled": true,
+          "embeddingDisabled": true
+        },
+        "labels": [],
+        "threadgate": {
+          "uri": "at://did:plc:epihigio3d7un7u3gpqiy5gv/app.bsky.feed.threadgate/3l7yv2a7cfq2l",
+          "cid": "bafyreih7igf4kh6d5kyev62p7ysslmsirpqlsk2putrlzousj22v7dzbci",
+          "record": {
+            "$type": "app.bsky.feed.threadgate",
+            "allow": [
+              {
+                "$type": "app.bsky.feed.threadgate#followingRule"
+              }
+            ],
+            "createdAt": "2024-11-03T03:31:59.325Z",
+            "hiddenReplies": [],
+            "post": "at://did:plc:epihigio3d7un7u3gpqiy5gv/app.bsky.feed.post/3l7yv2a7cfq2l"
+          },
+          "lists": []
+        }
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-03T15:34:12.787Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:3eari3bjogywply4wmmdgj5g/app.bsky.feed.post/3l7wjwqd6652f",
+        "cid": "bafyreifgpmgqpjqutzj3g6vrrx4v5qqg33bs2lpgccecp3bdzy4bxpa62e",
+        "author": {
+          "did": "did:plc:3eari3bjogywply4wmmdgj5g",
+          "handle": "td12212.bsky.social",
+          "displayName": "",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3eari3bjogywply4wmmdgj5g/bafkreignxlovmze6ftsozuvd6tqzzlzvyk3khgefifqvnq4l6jtmweju5u@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-09-20T00:44:49.395Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-02T01:28:54.445Z",
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "description": "The DJT token, started by Martin Shkreli, supposedly with the help of Barron Trump, has seen its liquidity pulled and its price crash.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreigx6yfwcakkdgbbtu3eqjnjbpkz3cjsfv2tq3nsswzu2cg4t7nllm"
+                },
+                "mimeType": "image/jpeg",
+                "size": 134812
+              },
+              "title": "No one surprised as DJT token has finally rugged",
+              "uri": "https://protos.com/no-one-surprised-as-djt-token-has-finally-rugged/"
+            }
+          },
+          "facets": [
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://protos.com/no-one-surprised-as-djt-token-has-finally-rugged/"
+                }
+              ],
+              "index": {
+                "byteEnd": 170,
+                "byteStart": 144
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreihaffxu6havni4pvlchhmbjbeamg5b2puqmhv2kzdir7cq44rbtc4",
+              "uri": "at://did:plc:q5wqr7zofdqyqwoki4cby36x/app.bsky.feed.post/3l7war5fryu2y"
+            },
+            "root": {
+              "cid": "bafyreihaffxu6havni4pvlchhmbjbeamg5b2puqmhv2kzdir7cq44rbtc4",
+              "uri": "at://did:plc:q5wqr7zofdqyqwoki4cby36x/app.bsky.feed.post/3l7war5fryu2y"
+            }
+          },
+          "text": "So pharma bro probably fronted the funds to set up the contract using Solana and gave the keys to Barron trump who then took all the funds out.\nprotos.com/no-one-surpr..."
+        },
+        "embed": {
+          "$type": "app.bsky.embed.external#view",
+          "external": {
+            "uri": "https://protos.com/no-one-surprised-as-djt-token-has-finally-rugged/",
+            "title": "No one surprised as DJT token has finally rugged",
+            "description": "The DJT token, started by Martin Shkreli, supposedly with the help of Barron Trump, has seen its liquidity pulled and its price crash.",
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3eari3bjogywply4wmmdgj5g/bafkreigx6yfwcakkdgbbtu3eqjnjbpkz3cjsfv2tq3nsswzu2cg4t7nllm@jpeg"
+          }
+        },
+        "replyCount": 0,
+        "repostCount": 3,
+        "likeCount": 3,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-02T01:28:52.718Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3l7wxo4sxyo26",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-02T05:34:35.612Z"
+      },
+      "reply": {
+        "root": {
+          "$type": "app.bsky.feed.defs#postView",
+          "uri": "at://did:plc:q5wqr7zofdqyqwoki4cby36x/app.bsky.feed.post/3l7war5fryu2y",
+          "cid": "bafyreihaffxu6havni4pvlchhmbjbeamg5b2puqmhv2kzdir7cq44rbtc4",
+          "author": {
+            "did": "did:plc:q5wqr7zofdqyqwoki4cby36x",
+            "handle": "conorsen.bsky.social",
+            "displayName": "Conor Sen",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:q5wqr7zofdqyqwoki4cby36x/bafkreicrgf262ke2riq6rjnsfk7g7j6nm3e4wbvsu6htwoojfpwcp4uhpi@jpeg",
+            "associated": {
+              "chat": {
+                "allowIncoming": "all"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-04-25T01:48:18.066Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2024-11-01T22:44:40.850Z",
+            "embed": {
+              "$type": "app.bsky.embed.images",
+              "images": [
+                {
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 1238,
+                    "width": 1179
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreibvhnwvm4a7o7rrolw52fap2wawwc64itvr5kceboumljvtafdd5i"
+                    },
+                    "mimeType": "image/jpeg",
+                    "size": 551209
+                  }
+                }
+              ]
+            },
+            "langs": [
+              "en"
+            ],
+            "text": "This is amazing content on like 5 different levels:"
+          },
+          "embed": {
+            "$type": "app.bsky.embed.images#view",
+            "images": [
+              {
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q5wqr7zofdqyqwoki4cby36x/bafkreibvhnwvm4a7o7rrolw52fap2wawwc64itvr5kceboumljvtafdd5i@jpeg",
+                "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:q5wqr7zofdqyqwoki4cby36x/bafkreibvhnwvm4a7o7rrolw52fap2wawwc64itvr5kceboumljvtafdd5i@jpeg",
+                "alt": "",
+                "aspectRatio": {
+                  "height": 1238,
+                  "width": 1179
+                }
+              }
+            ]
+          },
+          "replyCount": 97,
+          "repostCount": 768,
+          "likeCount": 3916,
+          "quoteCount": 117,
+          "indexedAt": "2024-11-01T22:44:40.850Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": []
+        },
+        "parent": {
+          "$type": "app.bsky.feed.defs#postView",
+          "uri": "at://did:plc:q5wqr7zofdqyqwoki4cby36x/app.bsky.feed.post/3l7war5fryu2y",
+          "cid": "bafyreihaffxu6havni4pvlchhmbjbeamg5b2puqmhv2kzdir7cq44rbtc4",
+          "author": {
+            "did": "did:plc:q5wqr7zofdqyqwoki4cby36x",
+            "handle": "conorsen.bsky.social",
+            "displayName": "Conor Sen",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:q5wqr7zofdqyqwoki4cby36x/bafkreicrgf262ke2riq6rjnsfk7g7j6nm3e4wbvsu6htwoojfpwcp4uhpi@jpeg",
+            "associated": {
+              "chat": {
+                "allowIncoming": "all"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-04-25T01:48:18.066Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2024-11-01T22:44:40.850Z",
+            "embed": {
+              "$type": "app.bsky.embed.images",
+              "images": [
+                {
+                  "alt": "",
+                  "aspectRatio": {
+                    "height": 1238,
+                    "width": 1179
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreibvhnwvm4a7o7rrolw52fap2wawwc64itvr5kceboumljvtafdd5i"
+                    },
+                    "mimeType": "image/jpeg",
+                    "size": 551209
+                  }
+                }
+              ]
+            },
+            "langs": [
+              "en"
+            ],
+            "text": "This is amazing content on like 5 different levels:"
+          },
+          "embed": {
+            "$type": "app.bsky.embed.images#view",
+            "images": [
+              {
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q5wqr7zofdqyqwoki4cby36x/bafkreibvhnwvm4a7o7rrolw52fap2wawwc64itvr5kceboumljvtafdd5i@jpeg",
+                "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:q5wqr7zofdqyqwoki4cby36x/bafkreibvhnwvm4a7o7rrolw52fap2wawwc64itvr5kceboumljvtafdd5i@jpeg",
+                "alt": "",
+                "aspectRatio": {
+                  "height": 1238,
+                  "width": 1179
+                }
+              }
+            ]
+          },
+          "replyCount": 97,
+          "repostCount": 768,
+          "likeCount": 3916,
+          "quoteCount": 117,
+          "indexedAt": "2024-11-01T22:44:40.850Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": []
+        }
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:s3dlzbkosetuepegdgtf3ez2/app.bsky.feed.post/3l7wo4efpod2i",
+        "cid": "bafyreif6kcjhggtoth5pq27hbc7sde3vwaooszvh4yjhswzipvijhc3fga",
+        "author": {
+          "did": "did:plc:s3dlzbkosetuepegdgtf3ez2",
+          "handle": "stevevance.bsky.social",
+          "displayName": "Steven Vance ",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s3dlzbkosetuepegdgtf3ez2/bafkreidhbsjergnimf6tdcnvxmopuztpzq5373noysonwc6ntzmi7g3qre@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "all"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-03T13:23:58.702Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-02T02:43:35.516Z",
+          "langs": [
+            "en"
+          ],
+          "text": "we really need to bring back the R7 and R8 zoning districts in Chicago\n\nthe condo building my mom is moving into has the highest outside-downtown zoning district of RM-6.5, which allows 100 units\n\nthe building has 299 units - there is no current zoning district that allows it to be built"
+        },
+        "replyCount": 1,
+        "repostCount": 2,
+        "likeCount": 17,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-02T02:43:35.516Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3l7wx34cxi22x",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-02T05:23:57.556Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:qtdmfygdnjpm334pfmngf2x7/app.bsky.feed.post/3l7w32rf4lj2s",
+        "cid": "bafyreidannqthnkhzuv3pm76d2or2pk2sri2bhmlghshmewq7h3dpjekhe",
+        "author": {
+          "did": "did:plc:qtdmfygdnjpm334pfmngf2x7",
+          "handle": "gwenwindflower.bsky.social",
+          "displayName": "agi.csv 🧝🏻‍♀️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qtdmfygdnjpm334pfmngf2x7/bafkreiafqceedgd2jhgbiabwgtxrkrgiik67b2xwwzlg522rp2bnhfbjk4@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.graph.follow/3l7m7cefo6p2a",
+            "followedBy": "at://did:plc:qtdmfygdnjpm334pfmngf2x7/app.bsky.graph.follow/3l7m3przczx2h"
+          },
+          "labels": [],
+          "createdAt": "2024-10-27T15:15:04.046Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T21:02:41.374Z",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "Screenshot of text:\n\nit's my birthday today. it's also my 2 year anniversary of starting HRT (took my first dose on my bday in '22). \n\ni came out relatively late in life. growing up in Missouri in the 90s in a super Christian, conservative, tramautizing-beyond-the-scope-of-a-skeet home/culture, i didn't have any language to map my experience onto. nothing to explain why i was more comfortable with the girls, playing with American Girl dolls, going to ballet class. all i knew was that being gay was a thing people called me a lot, and that it was the absolute worst thing you could be as a ‘man’.\n\nas i got older this bewilderment metastasized into virulent self-hatred. something was fundamentally broken inside of me, and the only way to survive was to put on a mask, perform, and do anything to numb the pain and emptiness of that existence. i did that for so long that i forgot there was any other experience of life. i thought everybody felt that way and the world was a sick joke. i grew up to be 6’2”, broad shouldered, square jawed, smart, nice, handsome. nobody could understand the disparity between how i was perceived and how wretched i felt inside. ",
+                "aspectRatio": {
+                  "height": 1424,
+                  "width": 1566
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiehu72noyjelglo7bmey32agaixwk5ea3qthynv3zyvkkeeed5l5m"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 346559
+                }
+              },
+              {
+                "alt": "Screenshot of text:\n\nas i slowly discovered what was really going on with me over the years, i made some attempts to open up. these were fiercely rejected by people who, while wonderful human beings, could not get over their conditioned disgust at seeing a ‘man’ express these things. it’s hard sometimes to remember that culture even 10-15 years ago was drastically different, not to mention that cultures moves unevenly. i put these parts of myself away with a fresh coat of shame, burying them deeper each time.\n\neventually, as my ability to keep up this performance in ever-increasing pain and confusion spiraled into complete disaster, burning my entire life to the ground, i found myself alone for the first time in my life, and during a global pandemic.\n\ni finally went inside myself, into the basement, and let the monster out of its dungeon. i looked it in the eyes, gave it a hug, and i started transition. ",
+                "aspectRatio": {
+                  "height": 1104,
+                  "width": 1520
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreidzfy4ly6caplp67rcja27td4zt3ypigwbk5mmbu2pzexqlql7see"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 272034
+                }
+              },
+              {
+                "alt": "Screenshot of text:\n\nand then everything was better! 😅 no, no unfortunately not. a lesson i’ve learned the hard way is that when you’re in a deep pit, and you finally see the way out, you still have a long, long climb ahead of you. most likely with a few harrowing falls and restarts to contend with.\n\n2 years later i’m still climbing. i struggle every day with things about my body i’ll never be able to change. with regret for decades of my life spent totally lost and in pain, so far behind my peers and colleagues in so many ways. with useless yearning that my life had started completely differently.",
+                "aspectRatio": {
+                  "height": 732,
+                  "width": 1534
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiamqewrp2e3xx47qww5tpuvmwm2w24cecx7wxrsoruvx4qhi5vxey"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 785775
+                }
+              },
+              {
+                "alt": "Screenshot of text:\n\nwhy am i sharing all this? well, in the US, we have an election in a few days. and on top of all this, the future of trans rights hangs in the balance. most pointedly, the rights of young people to transition. i really, really get that there’s a lot of complexity there. fear that your child may be making a mistake. a fear which is being exploited and amplified for political gain. i don’t know that i have an answer for that, but i do want to share the alternative with folks: half a life wasted in needless suffering, and permanent features of my body that will be dysphoric for the rest of my life. women like me saving up $X0,000 to have somebody saw chunks of our clavicles out and reattach them with a plate. i would give almost anything to have been able to transition when i was younger. to live in a culture  where i could see myself and understand it, a family where this was supported emotionally, and able to get the care of medical and mental health experts to help me navigate it. data shows that my situation is vastly more likely than regret. just something to consider.",
+                "aspectRatio": {
+                  "height": 1170,
+                  "width": 1572
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiaivwkmoifgmtkmzitxjuw6be66pzcjneuzlzhfodeelhytzuecpa"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 325195
+                }
+              }
+            ]
+          },
+          "facets": [
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#tag",
+                  "tag": "trans"
+                }
+              ],
+              "index": {
+                "byteEnd": 236,
+                "byteStart": 230
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "it's my birthday, which is also my 2 year anniversary of starting HRT. with trans rights hanging in the balance this election, i decided to share a bit of my experience. it's all in this post so you can scroll by if you'd prefer. #trans"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qtdmfygdnjpm334pfmngf2x7/bafkreiehu72noyjelglo7bmey32agaixwk5ea3qthynv3zyvkkeeed5l5m@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qtdmfygdnjpm334pfmngf2x7/bafkreiehu72noyjelglo7bmey32agaixwk5ea3qthynv3zyvkkeeed5l5m@jpeg",
+              "alt": "Screenshot of text:\n\nit's my birthday today. it's also my 2 year anniversary of starting HRT (took my first dose on my bday in '22). \n\ni came out relatively late in life. growing up in Missouri in the 90s in a super Christian, conservative, tramautizing-beyond-the-scope-of-a-skeet home/culture, i didn't have any language to map my experience onto. nothing to explain why i was more comfortable with the girls, playing with American Girl dolls, going to ballet class. all i knew was that being gay was a thing people called me a lot, and that it was the absolute worst thing you could be as a ‘man’.\n\nas i got older this bewilderment metastasized into virulent self-hatred. something was fundamentally broken inside of me, and the only way to survive was to put on a mask, perform, and do anything to numb the pain and emptiness of that existence. i did that for so long that i forgot there was any other experience of life. i thought everybody felt that way and the world was a sick joke. i grew up to be 6’2”, broad shouldered, square jawed, smart, nice, handsome. nobody could understand the disparity between how i was perceived and how wretched i felt inside. ",
+              "aspectRatio": {
+                "height": 1424,
+                "width": 1566
+              }
+            },
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qtdmfygdnjpm334pfmngf2x7/bafkreidzfy4ly6caplp67rcja27td4zt3ypigwbk5mmbu2pzexqlql7see@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qtdmfygdnjpm334pfmngf2x7/bafkreidzfy4ly6caplp67rcja27td4zt3ypigwbk5mmbu2pzexqlql7see@jpeg",
+              "alt": "Screenshot of text:\n\nas i slowly discovered what was really going on with me over the years, i made some attempts to open up. these were fiercely rejected by people who, while wonderful human beings, could not get over their conditioned disgust at seeing a ‘man’ express these things. it’s hard sometimes to remember that culture even 10-15 years ago was drastically different, not to mention that cultures moves unevenly. i put these parts of myself away with a fresh coat of shame, burying them deeper each time.\n\neventually, as my ability to keep up this performance in ever-increasing pain and confusion spiraled into complete disaster, burning my entire life to the ground, i found myself alone for the first time in my life, and during a global pandemic.\n\ni finally went inside myself, into the basement, and let the monster out of its dungeon. i looked it in the eyes, gave it a hug, and i started transition. ",
+              "aspectRatio": {
+                "height": 1104,
+                "width": 1520
+              }
+            },
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qtdmfygdnjpm334pfmngf2x7/bafkreiamqewrp2e3xx47qww5tpuvmwm2w24cecx7wxrsoruvx4qhi5vxey@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qtdmfygdnjpm334pfmngf2x7/bafkreiamqewrp2e3xx47qww5tpuvmwm2w24cecx7wxrsoruvx4qhi5vxey@jpeg",
+              "alt": "Screenshot of text:\n\nand then everything was better! 😅 no, no unfortunately not. a lesson i’ve learned the hard way is that when you’re in a deep pit, and you finally see the way out, you still have a long, long climb ahead of you. most likely with a few harrowing falls and restarts to contend with.\n\n2 years later i’m still climbing. i struggle every day with things about my body i’ll never be able to change. with regret for decades of my life spent totally lost and in pain, so far behind my peers and colleagues in so many ways. with useless yearning that my life had started completely differently.",
+              "aspectRatio": {
+                "height": 732,
+                "width": 1534
+              }
+            },
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qtdmfygdnjpm334pfmngf2x7/bafkreiaivwkmoifgmtkmzitxjuw6be66pzcjneuzlzhfodeelhytzuecpa@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qtdmfygdnjpm334pfmngf2x7/bafkreiaivwkmoifgmtkmzitxjuw6be66pzcjneuzlzhfodeelhytzuecpa@jpeg",
+              "alt": "Screenshot of text:\n\nwhy am i sharing all this? well, in the US, we have an election in a few days. and on top of all this, the future of trans rights hangs in the balance. most pointedly, the rights of young people to transition. i really, really get that there’s a lot of complexity there. fear that your child may be making a mistake. a fear which is being exploited and amplified for political gain. i don’t know that i have an answer for that, but i do want to share the alternative with folks: half a life wasted in needless suffering, and permanent features of my body that will be dysphoric for the rest of my life. women like me saving up $X0,000 to have somebody saw chunks of our clavicles out and reattach them with a plate. i would give almost anything to have been able to transition when i was younger. to live in a culture  where i could see myself and understand it, a family where this was supported emotionally, and able to get the care of medical and mental health experts to help me navigate it. data shows that my situation is vastly more likely than regret. just something to consider.",
+              "aspectRatio": {
+                "height": 1170,
+                "width": 1572
+              }
+            }
+          ]
+        },
+        "replyCount": 3,
+        "repostCount": 2,
+        "likeCount": 28,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-01T21:02:41.374Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3l7wmkheu262v",
+          "like": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.like/3l7wmodoq5f25",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-02T02:15:41.324Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:iyz5zf463ic52vqbonyu2ebu/app.bsky.feed.post/3l7w3r75rte2u",
+        "cid": "bafyreid257kebb6yxqjxp5u3spf3476d7i676rl7vozbgtw5sfkvv2a4eu",
+        "author": {
+          "did": "did:plc:iyz5zf463ic52vqbonyu2ebu",
+          "handle": "amyhoy.bsky.social",
+          "displayName": "Amy Hoy",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iyz5zf463ic52vqbonyu2ebu/bafkreieguvoqap225nmjjxqebb7poqfqng7jeoi73g7uli2lu62i3brxea@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "all"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-18T23:22:17.533Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T21:15:13.891Z",
+          "embed": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreian23p5sdq3nyypivc4u3qbbwnwgo4ncszkfxznhdxuaaxea5lcd4",
+              "uri": "at://did:plc:iyz5zf463ic52vqbonyu2ebu/app.bsky.feed.post/3l7w2pjrisp2w"
+            }
+          },
+          "langs": [
+            "en"
+          ],
+          "text": "FOLKS, THIS IS NOT A DRILL\n\nTHANKS TO NEW DONORS WE ARE NOW AT $91,950 RAISED RIGHT HERE ON BLUESKY\n\nSORRY FOR SCREAMING I AM REALLY HAPPY!\n\njust $8,050 left for our super stretch goal of $100,000 and 1.5 million voters reached with these ads!"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.record#view",
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:iyz5zf463ic52vqbonyu2ebu/app.bsky.feed.post/3l7w2pjrisp2w",
+            "cid": "bafyreian23p5sdq3nyypivc4u3qbbwnwgo4ncszkfxznhdxuaaxea5lcd4",
+            "author": {
+              "did": "did:plc:iyz5zf463ic52vqbonyu2ebu",
+              "handle": "amyhoy.bsky.social",
+              "displayName": "Amy Hoy",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iyz5zf463ic52vqbonyu2ebu/bafkreieguvoqap225nmjjxqebb7poqfqng7jeoi73g7uli2lu62i3brxea@jpeg",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "all"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false
+              },
+              "labels": [],
+              "createdAt": "2023-04-18T23:22:17.533Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-01T20:56:24.176Z",
+              "embed": {
+                "$type": "app.bsky.embed.external",
+                "external": {
+                  "description": "YouTube video by LLAN",
+                  "thumb": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreiabek5dweccz74yyhlrxqw7u7cwltlvj5glmqf3zbbuxsiysxjafu"
+                    },
+                    "mimeType": "image/jpeg",
+                    "size": 994605
+                  },
+                  "title": "William & Donald – Disabled People Shouldn't \"Just Die\"",
+                  "uri": "https://www.youtube.com/watch?v=pYFdMdOFEHA&list=PL37QyAFnJbfURwRtQm1xJPNivN7apQPuI&index=3"
+                }
+              },
+              "langs": [
+                "en"
+              ],
+              "text": "trump wants disabled people to just die. he really said that. \n\nthis ad featuring trump's own nephew, fred, father of a disabled son, is super powerful: it moves voters 18-35 by TEN POINTS.\n\nin battleground states!\n\nthey need funding to run it. can you help? donations of $1000+ needed! hit me up!"
+            },
+            "labels": [],
+            "likeCount": 160,
+            "replyCount": 4,
+            "repostCount": 77,
+            "quoteCount": 19,
+            "indexedAt": "2024-11-01T20:56:24.176Z",
+            "embeds": [
+              {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                  "uri": "https://www.youtube.com/watch?v=pYFdMdOFEHA&list=PL37QyAFnJbfURwRtQm1xJPNivN7apQPuI&index=3",
+                  "title": "William & Donald – Disabled People Shouldn't \"Just Die\"",
+                  "description": "YouTube video by LLAN",
+                  "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iyz5zf463ic52vqbonyu2ebu/bafkreiabek5dweccz74yyhlrxqw7u7cwltlvj5glmqf3zbbuxsiysxjafu@jpeg"
+                }
+              }
+            ]
+          }
+        },
+        "replyCount": 2,
+        "repostCount": 22,
+        "likeCount": 87,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-01T21:15:13.891Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3l7wlicrumg2v",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-02T01:56:35.576Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:4djfp3b27soxcfkxhirydi6d/app.bsky.feed.post/3l7vzp4b3272q",
+        "cid": "bafyreic5c6rcwldaajgyeld7cx3bqrlfsztbd5hc25v35ei53sd5awtn7u",
+        "author": {
+          "did": "did:plc:4djfp3b27soxcfkxhirydi6d",
+          "handle": "standplaatskrk.pl",
+          "displayName": "Standplaats Krakow ",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4djfp3b27soxcfkxhirydi6d/bafkreiclag5gemftruepn2f65wyo2u5ykfeciepie44cfyzutbrkds3mhe@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-27T21:33:19.946Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T20:38:15.766Z",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "\"legacy software companies adding an ai chatbot to their product\"\n\nA Liquid Soap pump stuck in a bar of soap.",
+                "aspectRatio": {
+                  "height": 630,
+                  "width": 530
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiajcunewd6dfbljqdnzx2id6j5jvjuqvdkhsmncev43vsr4satdvq"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 189349
+                }
+              }
+            ]
+          },
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreiah7tn3va4zgojmn435au2lqbnmho4kmkub5xiemkdbawspcawc4e",
+              "uri": "at://did:plc:4djfp3b27soxcfkxhirydi6d/app.bsky.feed.post/3l7vzjj3anb2f"
+            },
+            "root": {
+              "cid": "bafyreidqw73apetrdoqfsjzs6kbhetps3oyltmwde25sjacf3isosnvucm",
+              "uri": "at://did:plc:4djfp3b27soxcfkxhirydi6d/app.bsky.feed.post/3jvojrhasno26"
+            }
+          },
+          "text": ""
+        },
+        "embed": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4djfp3b27soxcfkxhirydi6d/bafkreiajcunewd6dfbljqdnzx2id6j5jvjuqvdkhsmncev43vsr4satdvq@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:4djfp3b27soxcfkxhirydi6d/bafkreiajcunewd6dfbljqdnzx2id6j5jvjuqvdkhsmncev43vsr4satdvq@jpeg",
+              "alt": "\"legacy software companies adding an ai chatbot to their product\"\n\nA Liquid Soap pump stuck in a bar of soap.",
+              "aspectRatio": {
+                "height": 630,
+                "width": 530
+              }
+            }
+          ]
+        },
+        "replyCount": 2,
+        "repostCount": 212,
+        "likeCount": 704,
+        "quoteCount": 7,
+        "indexedAt": "2024-11-01T20:38:15.766Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3l7wkhn5egl2h",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-02T01:38:19.080Z"
+      },
+      "reply": {
+        "root": {
+          "$type": "app.bsky.feed.defs#postView",
+          "uri": "at://did:plc:4djfp3b27soxcfkxhirydi6d/app.bsky.feed.post/3jvojrhasno26",
+          "cid": "bafyreidqw73apetrdoqfsjzs6kbhetps3oyltmwde25sjacf3isosnvucm",
+          "author": {
+            "did": "did:plc:4djfp3b27soxcfkxhirydi6d",
+            "handle": "standplaatskrk.pl",
+            "displayName": "Standplaats Krakow ",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4djfp3b27soxcfkxhirydi6d/bafkreiclag5gemftruepn2f65wyo2u5ykfeciepie44cfyzutbrkds3mhe@jpeg",
+            "associated": {
+              "chat": {
+                "allowIncoming": "following"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-04-27T21:33:19.946Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2023-05-14T09:26:27.201Z",
+            "facets": [
+              {
+                "features": [
+                  {
+                    "$type": "app.bsky.richtext.facet#link",
+                    "uri": "https://bsky.app/profile/standplaatskrk.pl/post/3jveekpbxyq2i"
+                  }
+                ],
+                "index": {
+                  "byteEnd": 101,
+                  "byteStart": 40
+                }
+              }
+            ],
+            "text": "This is The Thread™ (Bluesky v2) (v1: https://bsky.app/profile/standplaatskrk.pl/post/3jveekpbxyq2i)"
+          },
+          "replyCount": 6,
+          "repostCount": 25,
+          "likeCount": 190,
+          "quoteCount": 1,
+          "indexedAt": "2023-05-14T09:26:27.201Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": []
+        },
+        "parent": {
+          "$type": "app.bsky.feed.defs#postView",
+          "uri": "at://did:plc:4djfp3b27soxcfkxhirydi6d/app.bsky.feed.post/3l7vzjj3anb2f",
+          "cid": "bafyreiah7tn3va4zgojmn435au2lqbnmho4kmkub5xiemkdbawspcawc4e",
+          "author": {
+            "did": "did:plc:4djfp3b27soxcfkxhirydi6d",
+            "handle": "standplaatskrk.pl",
+            "displayName": "Standplaats Krakow ",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4djfp3b27soxcfkxhirydi6d/bafkreiclag5gemftruepn2f65wyo2u5ykfeciepie44cfyzutbrkds3mhe@jpeg",
+            "associated": {
+              "chat": {
+                "allowIncoming": "following"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-04-27T21:33:19.946Z"
+          },
+          "record": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2024-11-01T20:35:07.875Z",
+            "embed": {
+              "$type": "app.bsky.embed.images",
+              "images": [
+                {
+                  "alt": "\"Some days, I just want to reply to emails with 'ok' and this photo\"\n\nIt's a little blond girl working hard on a crayon drawing, despite crying.",
+                  "aspectRatio": {
+                    "height": 1152,
+                    "width": 1169
+                  },
+                  "image": {
+                    "$type": "blob",
+                    "ref": {
+                      "$link": "bafkreiamnsiegarzzyg67seo5qhj77qp5fzjt2vnzymacb6slb55bg32wy"
+                    },
+                    "mimeType": "image/jpeg",
+                    "size": 655838
+                  }
+                }
+              ]
+            },
+            "langs": [
+              "en"
+            ],
+            "reply": {
+              "parent": {
+                "cid": "bafyreiagavxsdgnlvdlgfilrhjnjrfd6d7q2wp4syaei3epksft7k6i6ym",
+                "uri": "at://did:plc:4djfp3b27soxcfkxhirydi6d/app.bsky.feed.post/3l7vzaq23mg23"
+              },
+              "root": {
+                "cid": "bafyreidqw73apetrdoqfsjzs6kbhetps3oyltmwde25sjacf3isosnvucm",
+                "uri": "at://did:plc:4djfp3b27soxcfkxhirydi6d/app.bsky.feed.post/3jvojrhasno26"
+              }
+            },
+            "text": ""
+          },
+          "embed": {
+            "$type": "app.bsky.embed.images#view",
+            "images": [
+              {
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4djfp3b27soxcfkxhirydi6d/bafkreiamnsiegarzzyg67seo5qhj77qp5fzjt2vnzymacb6slb55bg32wy@jpeg",
+                "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:4djfp3b27soxcfkxhirydi6d/bafkreiamnsiegarzzyg67seo5qhj77qp5fzjt2vnzymacb6slb55bg32wy@jpeg",
+                "alt": "\"Some days, I just want to reply to emails with 'ok' and this photo\"\n\nIt's a little blond girl working hard on a crayon drawing, despite crying.",
+                "aspectRatio": {
+                  "height": 1152,
+                  "width": 1169
+                }
+              }
+            ]
+          },
+          "replyCount": 2,
+          "repostCount": 13,
+          "likeCount": 125,
+          "quoteCount": 2,
+          "indexedAt": "2024-11-01T20:35:07.875Z",
+          "viewer": {
+            "threadMuted": false,
+            "embeddingDisabled": false
+          },
+          "labels": []
+        },
+        "grandparentAuthor": {
+          "did": "did:plc:4djfp3b27soxcfkxhirydi6d",
+          "handle": "standplaatskrk.pl",
+          "displayName": "Standplaats Krakow ",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4djfp3b27soxcfkxhirydi6d/bafkreiclag5gemftruepn2f65wyo2u5ykfeciepie44cfyzutbrkds3mhe@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-27T21:33:19.946Z"
+        }
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.post/3l7vxiuivk52v",
+        "cid": "bafyreigy6uceq2pvfljhgyohr2zao35sjiywz76ma4yt643npwnaoxmioa",
+        "author": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T19:58:59.413Z",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "",
+                "aspectRatio": {
+                  "height": 1500,
+                  "width": 1999
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreigsubd4iv4gus3ebpxvqu6dvtnrzynu46yxccsejkoe2fycszaq5y"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 717615
+                }
+              }
+            ]
+          },
+          "langs": [
+            "en"
+          ],
+          "text": "Finally enough screen space for immersive doom scrolling."
+        },
+        "embed": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreigsubd4iv4gus3ebpxvqu6dvtnrzynu46yxccsejkoe2fycszaq5y@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreigsubd4iv4gus3ebpxvqu6dvtnrzynu46yxccsejkoe2fycszaq5y@jpeg",
+              "alt": "",
+              "aspectRatio": {
+                "height": 1500,
+                "width": 1999
+              }
+            }
+          ]
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-01T19:58:59.413Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.post/3l7vndehgbe2q",
+        "cid": "bafyreib5nftnhhpxn32gjoco54f32fdcyvsx77jqraf6rsdplojn7ia6em",
+        "author": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T16:56:57.408Z",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "Todo santeros in Guatemala during the feria de todos santos. ",
+                "aspectRatio": {
+                  "height": 1333,
+                  "width": 2000
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreibl7s5efwcvfu6gilolhpud77hkbbod4rduhej4n3w44yesxe6sfe"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 958792
+                }
+              }
+            ]
+          },
+          "langs": [
+            "en"
+          ],
+          "text": "Feliz dia de todos santos. Can’t believe this was over 15 years ago."
+        },
+        "embed": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibl7s5efwcvfu6gilolhpud77hkbbod4rduhej4n3w44yesxe6sfe@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibl7s5efwcvfu6gilolhpud77hkbbod4rduhej4n3w44yesxe6sfe@jpeg",
+              "alt": "Todo santeros in Guatemala during the feria de todos santos. ",
+              "aspectRatio": {
+                "height": 1333,
+                "width": 2000
+              }
+            }
+          ]
+        },
+        "replyCount": 0,
+        "repostCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-01T16:56:57.408Z",
+        "viewer": {
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:coaeutf4qx7rwvit3cxuckoq/app.bsky.feed.post/3l7vlquom2a26",
+        "cid": "bafyreibfnekzfl3njqcq7745erjdfk6iz4hcyhahq2ug7hhdopxlue7pna",
+        "author": {
+          "did": "did:plc:coaeutf4qx7rwvit3cxuckoq",
+          "handle": "skydrama.bsky.social",
+          "displayName": "Andrew Pritchard",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:coaeutf4qx7rwvit3cxuckoq/bafkreigpqpa2lgzk7425msxffha4tmzemyrxzfoet34m2g5ch5vey4ux5e@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-08-14T18:17:58.291Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T16:28:42.871Z",
+          "langs": [
+            "en"
+          ],
+          "text": "I am two weeks Twitter/X clean today! I don't miss it, aside from maybe the live sports part of it. I need to find my Illini and Cubs sports follows so I can still ride that social wave on game day."
+        },
+        "replyCount": 4,
+        "repostCount": 2,
+        "likeCount": 41,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-01T16:28:42.871Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3l7vn7hwxdq2x",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-01T16:54:46.647Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:qgzfxy5akphi6jg3a7lngtb5/app.bsky.feed.post/3l7vlyl6xzf2j",
+        "cid": "bafyreig3ry7uumpqhglpa4kuaq6lum577rma4narkb2zq3fyxiv3rgcen4",
+        "author": {
+          "did": "did:plc:qgzfxy5akphi6jg3a7lngtb5",
+          "handle": "txraven.bsky.social",
+          "displayName": "Texas Raven",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qgzfxy5akphi6jg3a7lngtb5/bafkreigkqakh7hvsyn5hgmh6yatwbutsb3ba7grjni33y2axdj2w5agddy@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2024-06-01T15:38:00.973Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T16:33:01.549Z",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "Today is \nWORLD VEGAN, \nALL SAINTS, \nGIVE UP YOUR SHOULDS, \nNATIONAL AUTHOR, \nNATIONAL GO COOK FOR YOUR PET, LOVE YOUR LAWYER, \nFOUNTAIN PEN, and \nDIWALI\nday\n\n ℹ️4️⃣1️⃣1️⃣",
+                "aspectRatio": {
+                  "height": 1580,
+                  "width": 1170
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreib34aiosqvm6hqd7d3gqwyahopxcz6v76r3tkcv7uvbxfzpzqi6pu"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 287446
+                }
+              }
+            ]
+          },
+          "langs": [
+            "en"
+          ],
+          "text": "Today, November 1, 2024 is:"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qgzfxy5akphi6jg3a7lngtb5/bafkreib34aiosqvm6hqd7d3gqwyahopxcz6v76r3tkcv7uvbxfzpzqi6pu@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qgzfxy5akphi6jg3a7lngtb5/bafkreib34aiosqvm6hqd7d3gqwyahopxcz6v76r3tkcv7uvbxfzpzqi6pu@jpeg",
+              "alt": "Today is \nWORLD VEGAN, \nALL SAINTS, \nGIVE UP YOUR SHOULDS, \nNATIONAL AUTHOR, \nNATIONAL GO COOK FOR YOUR PET, LOVE YOUR LAWYER, \nFOUNTAIN PEN, and \nDIWALI\nday\n\n ℹ️4️⃣1️⃣1️⃣",
+              "aspectRatio": {
+                "height": 1580,
+                "width": 1170
+              }
+            }
+          ]
+        },
+        "replyCount": 0,
+        "repostCount": 1,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-01T16:33:01.549Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3l7vn4cyjif2x",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-01T16:53:00.981Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:wz4w7vk7hhbfyfcqxhttoqg6/app.bsky.feed.post/3l7vj6inekt2m",
+        "cid": "bafyreidmltfihsqr4n7hglaqtwl5wsupfh2wz6nxsk7azveaybvq2zyome",
+        "author": {
+          "did": "did:plc:wz4w7vk7hhbfyfcqxhttoqg6",
+          "handle": "musicboxtheatre.bsky.social",
+          "displayName": "Music Box Theatre",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wz4w7vk7hhbfyfcqxhttoqg6/bafkreifop43egdgroyq244bep2ey4bgwuys3nd4zlgvqoqqkln2iieqmd4@jpeg",
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.graph.follow/3k3cbwqeij424"
+          },
+          "labels": [],
+          "createdAt": "2023-07-24T15:02:58.847Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T15:42:39.005Z",
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "description": "Even the bad guys are fascinating in Sean Baker's story of an exotic dancer, an oligarch's son and their rapid, hedonistic romance.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreifq7fhirkyopchcimdssnceemziv556w6zaks2ccmds7mv7xfrfcm"
+                },
+                "mimeType": "image/jpeg",
+                "size": 319036
+              },
+              "title": "'Anora' gets better when the fairy tale goes awry",
+              "uri": "https://chicago.suntimes.com/movies-and-tv/2024/10/22/anora-review-mikey-madison-movie-sean-baker"
+            }
+          },
+          "facets": [
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://musicboxtheatre.com/films-and-events/anora"
+                }
+              ],
+              "index": {
+                "byteEnd": 258,
+                "byteStart": 223
+              }
+            },
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://chicago.suntimes.com/movies-and-tv/2024/10/22/anora-review-mikey-madison-movie-sean-baker"
+                }
+              ],
+              "index": {
+                "byteEnd": 296,
+                "byteStart": 260
+              }
+            }
+          ],
+          "langs": [
+            "en"
+          ],
+          "text": "\"4 Stars! Riotously funny... You might be surprised just how quickly you commit to this once-in-a-lifetime ride\" - Chicago Sun-Times\n\nYou have 1 more week to see ANORA in 35MM - Starting Nov 8th all screenings will be DCP: musicboxtheatre.com/films-and-ev...\n\nchicago.suntimes.com/movies-and-t..."
+        },
+        "embed": {
+          "$type": "app.bsky.embed.external#view",
+          "external": {
+            "uri": "https://chicago.suntimes.com/movies-and-tv/2024/10/22/anora-review-mikey-madison-movie-sean-baker",
+            "title": "'Anora' gets better when the fairy tale goes awry",
+            "description": "Even the bad guys are fascinating in Sean Baker's story of an exotic dancer, an oligarch's son and their rapid, hedonistic romance.",
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wz4w7vk7hhbfyfcqxhttoqg6/bafkreifq7fhirkyopchcimdssnceemziv556w6zaks2ccmds7mv7xfrfcm@jpeg"
+          }
+        },
+        "replyCount": 0,
+        "repostCount": 2,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-01T15:42:39.005Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3l7vmplxnln2x",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-01T16:45:54.095Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:otk4lxlvthxibdiqssermcgp/app.bsky.feed.post/3l7sv5eol7m22",
+        "cid": "bafyreibq7owbf7cy576zeyvk4re2tdywryab4bf66qsto3svq34re6ndwm",
+        "author": {
+          "did": "did:plc:otk4lxlvthxibdiqssermcgp",
+          "handle": "byelacey.bsky.social",
+          "displayName": "lacey",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:otk4lxlvthxibdiqssermcgp/bafkreiahgwvrpo3lgvp4tr2ekc3how3trnecdgehb5nuvlxnb6leteotwm@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [
+            {
+              "src": "did:plc:otk4lxlvthxibdiqssermcgp",
+              "uri": "at://did:plc:otk4lxlvthxibdiqssermcgp/app.bsky.actor.profile/self",
+              "cid": "bafyreiglaomwrfz7dpphnt5flmertnn2d5ez6chlzp6s4flqouqnb727le",
+              "val": "!no-unauthenticated",
+              "cts": "1970-01-01T00:00:00.000Z"
+            }
+          ],
+          "createdAt": "2023-06-19T18:00:18.707Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-10-31T14:38:43.491Z",
+          "langs": [
+            "en"
+          ],
+          "text": "vampire expert here again. if you're cold, they're cold. invite them in"
+        },
+        "replyCount": 22,
+        "repostCount": 346,
+        "likeCount": 1016,
+        "quoteCount": 11,
+        "indexedAt": "2024-10-31T14:38:43.491Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3l7vlmhzaoq2k",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-01T16:26:15.441Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:3pumbzdnfl7h4bpohrt3tbvr/app.bsky.feed.post/3l7vklz443e2d",
+        "cid": "bafyreigjidegmz6xebrdznanxkypusuiuvydi52cs2vdp4qgbo5na6axfe",
+        "author": {
+          "did": "did:plc:3pumbzdnfl7h4bpohrt3tbvr",
+          "handle": "candyfluffs.bsky.social",
+          "displayName": "Candy Fluffs",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pumbzdnfl7h4bpohrt3tbvr/bafkreidhsnf4rwvrxuue5s7drq5c4widnhu5kutc2kpopaso23nctpykya@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-09-25T00:27:29.054Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T16:08:06.180Z",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "",
+                "aspectRatio": {
+                  "height": 2000,
+                  "width": 1500
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreif66bxanj5owdwoznrlwbsliocco7kyqekbzclugcarzxpanrzeqe"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 946751
+                }
+              }
+            ]
+          },
+          "langs": [
+            "en"
+          ],
+          "text": "I’m at Anime Magic INK’D!\nIf anyone happens to be in the Chicago area com say hi!"
+        },
+        "embed": {
+          "$type": "app.bsky.embed.images#view",
+          "images": [
+            {
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pumbzdnfl7h4bpohrt3tbvr/bafkreif66bxanj5owdwoznrlwbsliocco7kyqekbzclugcarzxpanrzeqe@jpeg",
+              "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3pumbzdnfl7h4bpohrt3tbvr/bafkreif66bxanj5owdwoznrlwbsliocco7kyqekbzclugcarzxpanrzeqe@jpeg",
+              "alt": "",
+              "aspectRatio": {
+                "height": 2000,
+                "width": 1500
+              }
+            }
+          ]
+        },
+        "replyCount": 0,
+        "repostCount": 3,
+        "likeCount": 15,
+        "quoteCount": 1,
+        "indexedAt": "2024-11-01T16:08:06.180Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3l7vldqmjzv2v",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-01T16:21:19.368Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:gopwyfcodr3bfeyds3clqs3d/app.bsky.feed.post/3l7vkr5qf3h2f",
+        "cid": "bafyreighwnk3e254fjkicurycnjrjmy2vp42uowwd5xwmism3qtheosbnq",
+        "author": {
+          "did": "did:plc:gopwyfcodr3bfeyds3clqs3d",
+          "handle": "ditaki.bsky.social",
+          "displayName": "Ditaki",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gopwyfcodr3bfeyds3clqs3d/bafkreigpxapzv3erpwweyb7sjiubxrxevewax3xl7ih2sbnvbvwg3bwmzy@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "all"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-08-28T21:54:30.260Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T16:10:58.494Z",
+          "langs": [
+            "en"
+          ],
+          "text": "Early voting in Chicago right now and I've never seen it this busy."
+        },
+        "replyCount": 1,
+        "repostCount": 1,
+        "likeCount": 4,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-01T16:10:58.494Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3l7vlcyfmht2u",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-01T16:20:57.268Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:x4qyokjtdzgl7gmqhsw4ajqj/app.bsky.feed.post/3l7vkll2zds25",
+        "cid": "bafyreiam5glmyqop2sgof5xznsvjgoxjhbbnvizwlbos33fdjtdlp6t4xm",
+        "author": {
+          "did": "did:plc:x4qyokjtdzgl7gmqhsw4ajqj",
+          "handle": "bencollins.bsky.social",
+          "displayName": "Tim Onion",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:x4qyokjtdzgl7gmqhsw4ajqj/bafkreihfnahgxywmhcl4fffsa65tk4edrio5bjyy3s3yabr6caymiyl73a@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "all"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.graph.follow/3kqykfiujnk2g"
+          },
+          "labels": [],
+          "createdAt": "2023-04-27T14:23:34.544Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T16:07:51.438Z",
+          "embed": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreid4oglwmggrnsrviea5fichm5g2tzlpyjowxcd7dgdwitdtdzi4xu",
+              "uri": "at://did:plc:ovyajbnegrir2ddtwfhijiob/app.bsky.feed.post/3l7v3qvfuxw2g"
+            }
+          },
+          "langs": [
+            "en"
+          ],
+          "text": "What's even crazier about this is that the Trump small dollar campaign is enhanced romance scamming of 85-year-old racists and even that nets out to precisely one Miriam Adelson."
+        },
+        "embed": {
+          "$type": "app.bsky.embed.record#view",
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:ovyajbnegrir2ddtwfhijiob/app.bsky.feed.post/3l7v3qvfuxw2g",
+            "cid": "bafyreid4oglwmggrnsrviea5fichm5g2tzlpyjowxcd7dgdwitdtdzi4xu",
+            "author": {
+              "did": "did:plc:ovyajbnegrir2ddtwfhijiob",
+              "handle": "pwnallthethings.bsky.social",
+              "displayName": "Pwnallthethings",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ovyajbnegrir2ddtwfhijiob/bafkreigshibagl3u2yefhuj3qkthwlbkufw4vhpv6cevvgfmp5uwioxmdq@jpeg",
+              "associated": {
+                "chat": {
+                  "allowIncoming": "all"
+                }
+              },
+              "viewer": {
+                "muted": false,
+                "blockedBy": false
+              },
+              "labels": [
+                {
+                  "src": "did:plc:ovyajbnegrir2ddtwfhijiob",
+                  "uri": "at://did:plc:ovyajbnegrir2ddtwfhijiob/app.bsky.actor.profile/self",
+                  "cid": "bafyreiepr5scpaz6nir4p73zz376izlxilhgjkczlhgmmrn3t2psjvqz2i",
+                  "val": "!no-unauthenticated",
+                  "cts": "1970-01-01T00:00:00.000Z"
+                }
+              ],
+              "createdAt": "2023-05-15T14:40:35.094Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-11-01T11:42:23.831Z",
+              "embed": {
+                "$type": "app.bsky.embed.record",
+                "record": {
+                  "cid": "bafyreigilpql2jlqoxgq6hgv5mdx2bwhbcjhnuctov422emti7w5jyxwhq",
+                  "uri": "at://did:plc:u2nzeo2hgx3ckofwx6zklvvl/app.bsky.feed.post/3l7v2os7vy42a"
+                }
+              },
+              "langs": [
+                "en"
+              ],
+              "text": "In today's example of \"everyone knows a billion is big, but not how big\"\n\nSo far this cycle (to Oct 24) Trump has raised ~ $109m in small dollar donations.\n\n(at least) three of his billionaire supporters are /individually/ higher than /all/ of those combined\n\nMellon: $150m\nMusk: $132m\nAdelson: $105m"
+            },
+            "labels": [],
+            "likeCount": 458,
+            "replyCount": 16,
+            "repostCount": 118,
+            "quoteCount": 34,
+            "indexedAt": "2024-11-01T11:42:23.831Z",
+            "embeds": [
+              {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                  "$type": "app.bsky.embed.record#viewRecord",
+                  "uri": "at://did:plc:u2nzeo2hgx3ckofwx6zklvvl/app.bsky.feed.post/3l7v2os7vy42a",
+                  "cid": "bafyreigilpql2jlqoxgq6hgv5mdx2bwhbcjhnuctov422emti7w5jyxwhq",
+                  "author": {
+                    "did": "did:plc:u2nzeo2hgx3ckofwx6zklvvl",
+                    "handle": "thecynicist.bsky.social",
+                    "displayName": "Fatima Ayub",
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:u2nzeo2hgx3ckofwx6zklvvl/bafkreicxmovus7d6fgduxgaekteuoq5mo6rsk2jdqgdla27o7ambwezlcm@jpeg",
+                    "associated": {
+                      "chat": {
+                        "allowIncoming": "all"
+                      }
+                    },
+                    "viewer": {
+                      "muted": false,
+                      "blockedBy": false
+                    },
+                    "labels": [
+                      {
+                        "src": "did:plc:u2nzeo2hgx3ckofwx6zklvvl",
+                        "uri": "at://did:plc:u2nzeo2hgx3ckofwx6zklvvl/app.bsky.actor.profile/self",
+                        "cid": "bafyreih6zgtey3qg6w7sizhrqijvzz4itnrlovui3ewr42oc27mfzzngpq",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                      }
+                    ],
+                    "createdAt": "2023-05-15T12:57:31.414Z"
+                  },
+                  "value": {
+                    "$type": "app.bsky.feed.post",
+                    "createdAt": "2024-11-01T11:23:19.846Z",
+                    "embed": {
+                      "$type": "app.bsky.embed.record",
+                      "record": {
+                        "cid": "bafyreiezxl2n4bxzgll3vzkpaye7hukpdyvopyj4vn7tbaqhtjxpphfgna",
+                        "uri": "at://did:plc:prkmkosps6uu25k5aaa3xc2m/app.bsky.feed.post/3l7v2ngtxyl2a"
+                      }
+                    },
+                    "langs": [
+                      "en"
+                    ],
+                    "text": "Clown car corruption"
+                  },
+                  "labels": [],
+                  "likeCount": 192,
+                  "replyCount": 6,
+                  "repostCount": 32,
+                  "quoteCount": 1,
+                  "indexedAt": "2024-11-01T11:23:19.846Z"
+                }
+              }
+            ]
+          }
+        },
+        "replyCount": 7,
+        "repostCount": 72,
+        "likeCount": 517,
+        "quoteCount": 1,
+        "indexedAt": "2024-11-01T16:07:51.438Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3l7vl6riunn2a",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-01T16:18:35.772Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:shk3rptrsj34wkl34djcub4o/app.bsky.feed.post/3l7v66yr2ql2n",
+        "cid": "bafyreidkeamhuqmhl5r3tziqf3wpubbyoulrl3ipe5z77wenxbenkabqda",
+        "author": {
+          "did": "did:plc:shk3rptrsj34wkl34djcub4o",
+          "handle": "kennedytcooper.bsky.social",
+          "displayName": "Themperor Kennedy🐸🏳️‍🌈",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:shk3rptrsj34wkl34djcub4o/bafkreih5335onfzgsx5cqy5crj5jjff3tt6bfdhax5oo2ghatqjivbjfci@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "all"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.graph.follow/3kxol7fzese2p"
+          },
+          "labels": [],
+          "createdAt": "2023-04-27T14:54:08.088Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T12:26:04.235Z",
+          "langs": [
+            "en"
+          ],
+          "text": "What if The Bear was a show about a big gay fella. He can still be Italian."
+        },
+        "replyCount": 5,
+        "repostCount": 5,
+        "likeCount": 43,
+        "quoteCount": 0,
+        "indexedAt": "2024-11-01T12:26:04.235Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3l7vl4lajbf26",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-01T16:17:21.934Z"
+      }
+    },
+    {
+      "post": {
+        "uri": "at://did:plc:7i3fhorekojhdjhkbln7q7gq/app.bsky.feed.post/3l7u6rtjndt2c",
+        "cid": "bafyreidnoxyiq5akrbsoa7l5flanf7qmzoi7ci3c5jcjt2jk6uq2trdju4",
+        "author": {
+          "did": "did:plc:7i3fhorekojhdjhkbln7q7gq",
+          "handle": "kelseyhightower.com",
+          "displayName": "Kelsey Hightower",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7i3fhorekojhdjhkbln7q7gq/bafkreidc3secznbt2u5bcwcaownwvgd57jefnprxgtrvmlyli3dho5kpom@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.graph.follow/3k3bosmzqog24"
+          },
+          "labels": [],
+          "createdAt": "2023-04-21T19:04:37.997Z"
+        },
+        "record": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2024-11-01T03:03:56.757Z",
+          "embed": {
+            "$type": "app.bsky.embed.record",
+            "record": {
+              "cid": "bafyreihjh4765wqfxo4xrscrjw2las35zutt72g5ny2e3bdrjgawcpepfe",
+              "uri": "at://did:plc:aao5w7qzsanm62uyori4xrua/app.bsky.feed.post/3l7tk3fizu424"
+            }
+          },
+          "langs": [
+            "en"
+          ],
+          "text": "Would you look at that. GitHub has added support for Bluesky handles on your GitHub profile."
+        },
+        "embed": {
+          "$type": "app.bsky.embed.record#view",
+          "record": {
+            "$type": "app.bsky.embed.record#viewRecord",
+            "uri": "at://did:plc:aao5w7qzsanm62uyori4xrua/app.bsky.feed.post/3l7tk3fizu424",
+            "cid": "bafyreihjh4765wqfxo4xrscrjw2las35zutt72g5ny2e3bdrjgawcpepfe",
+            "author": {
+              "did": "did:plc:aao5w7qzsanm62uyori4xrua",
+              "handle": "robschn.com",
+              "displayName": "rob",
+              "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aao5w7qzsanm62uyori4xrua/bafkreicr6u6ep5bzcrzspfjgglva23cqmwfcewulicyfx6s7he34unfr4y@jpeg",
+              "viewer": {
+                "muted": false,
+                "blockedBy": false
+              },
+              "labels": [],
+              "createdAt": "2024-10-17T17:09:30.944Z"
+            },
+            "value": {
+              "$type": "app.bsky.feed.post",
+              "createdAt": "2024-10-31T20:53:29.281Z",
+              "embed": {
+                "$type": "app.bsky.embed.images",
+                "images": [
+                  {
+                    "alt": "GitHub profile showing social links with Bluesky icon enabled",
+                    "aspectRatio": {
+                      "height": 285,
+                      "width": 336
+                    },
+                    "image": {
+                      "$type": "blob",
+                      "ref": {
+                        "$link": "bafkreiczdk6teweuiculskez2ohleik4mn265agblcdoo4yfcsgouhushm"
+                      },
+                      "mimeType": "image/jpeg",
+                      "size": 30834
+                    }
+                  }
+                ]
+              },
+              "facets": [
+                {
+                  "$type": "app.bsky.richtext.facet",
+                  "features": [
+                    {
+                      "$type": "app.bsky.richtext.facet#mention",
+                      "did": "did:plc:sydgpvanh46u766n536r33oa"
+                    }
+                  ],
+                  "index": {
+                    "byteEnd": 37,
+                    "byteStart": 26
+                  }
+                }
+              ],
+              "langs": [
+                "en"
+              ],
+              "text": "Skies looking pretty blue @github.com now 😎"
+            },
+            "labels": [],
+            "likeCount": 348,
+            "replyCount": 20,
+            "repostCount": 54,
+            "quoteCount": 12,
+            "indexedAt": "2024-10-31T20:53:29.281Z",
+            "embeds": [
+              {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                  {
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aao5w7qzsanm62uyori4xrua/bafkreiczdk6teweuiculskez2ohleik4mn265agblcdoo4yfcsgouhushm@jpeg",
+                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:aao5w7qzsanm62uyori4xrua/bafkreiczdk6teweuiculskez2ohleik4mn265agblcdoo4yfcsgouhushm@jpeg",
+                    "alt": "GitHub profile showing social links with Bluesky icon enabled",
+                    "aspectRatio": {
+                      "height": 285,
+                      "width": 336
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "replyCount": 20,
+        "repostCount": 151,
+        "likeCount": 827,
+        "quoteCount": 13,
+        "indexedAt": "2024-11-01T03:03:56.757Z",
+        "viewer": {
+          "repost": "at://did:plc:ubudpurydqvit3dhdnx4v6sv/app.bsky.feed.repost/3l7vl2nbqal2u",
+          "threadMuted": false,
+          "embeddingDisabled": false
+        },
+        "labels": []
+      },
+      "reason": {
+        "$type": "app.bsky.feed.defs#reasonRepost",
+        "by": {
+          "did": "did:plc:ubudpurydqvit3dhdnx4v6sv",
+          "handle": "benoist.dev",
+          "displayName": "Erik ❤️",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ubudpurydqvit3dhdnx4v6sv/bafkreibjcvdsldtqg3tgzabaocbgaftbu57cjztrisrvlffebmi4qxgn5y@jpeg",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-07-08T16:25:07.613Z"
+        },
+        "indexedAt": "2024-11-01T16:16:16.957Z"
+      }
+    }
+  ],
+  "cursor": "2024-11-01T16:16:16.957Z"
+}
