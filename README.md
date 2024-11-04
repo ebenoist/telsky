@@ -13,3 +13,9 @@ For images, we can use sixels: https://github.com/mattn/go-sixel or a fallback w
 Maybe we can use nerdfonts for basic icons?
 
 All the [charm](https://charm.sh/) is here
+
+## Operating Proof of Concept
+
+* Write credentials to `XDG_CONFIG` `gosky account create-session "your-handle.dev" "your-app-password" > ~/.config/telsky/client.auth`
+* go install && telsky
+* Cross your fingers
