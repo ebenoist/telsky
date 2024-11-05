@@ -12,7 +12,7 @@ func newItemDelegate(keys *delegateKeyMap) list.DefaultDelegate {
 	d.UpdateFunc = func(msg tea.Msg, m *list.Model) tea.Cmd {
 		var title string
 
-		if i, ok := m.SelectedItem().(Post); ok {
+		if i, ok := m.SelectedItem().(PostItem); ok {
 			title = i.Title()
 		} else {
 			return nil
@@ -77,7 +77,7 @@ func newDelegateKeyMap() *delegateKeyMap {
 		),
 		repost: key.NewBinding(
 			key.WithKeys("r"),
-			key.WithHelp("x", "repost"),
+			key.WithHelp("r", "repost"),
 		),
 	}
 }
